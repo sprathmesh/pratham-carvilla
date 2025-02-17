@@ -1,6 +1,6 @@
 
 # pratham-carvilla
-#Prathmesh shine @2025
+#Prathmesh shinde @2025
 200~# Carvilla Website
 
 Welcome to the Carvilla project! This is a basic website hosted using **NGINX** on a Docker container.
